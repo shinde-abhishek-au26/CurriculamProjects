@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+
+body{
+    font-family: 'Roboto Slab', serif;
+    background-image: url('/assets/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.center-div{
+    padding-top: 10%;
+}
+
+.abc{
+    border: 3px solid black !important;
+}
+
+.btn.btn-success{
+    padding: .4em 1.6em;
+}
+
+form{
+    padding: 0 3em;
+}
+
+#login .title >span{
+    font-size: 0.8em;
+}
